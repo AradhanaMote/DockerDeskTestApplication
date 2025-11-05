@@ -31,7 +31,7 @@ DockerDeskTestApplication/
 ├── src/                  # Source code (HTML, CSS, JS)
 │   ├── index.html
 │   ├── style.css
-│   └── app.js
+│   └── server.js
 │
 ├── Dockerfile            # Container build instructions
 ├── docker-compose.yaml   # Multi-container orchestration
